@@ -1,0 +1,11 @@
+.DS_Store
+
+.vs
+.vscode
+.idea
+.cache
+
+build*
+cmake-build*
+
+src-assets
